@@ -1,0 +1,13 @@
+.BeerStorePagination{
+	display: block;
+}
+.BeerStorePaginationPrev{
+	float: left;
+	cursor: pointer;
+	cursor: hand;
+}
+.BeerStorePaginationNext{
+	float: right;
+	cursor: pointer;
+	cursor: hand;
+}
